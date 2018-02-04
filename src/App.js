@@ -9,7 +9,7 @@ export class App extends Component {
         <div className="row title justify-content-center" style={{ paddingTop: '12px' }}>
           <h1>Quote Maker</h1>
         </div>
-        <hr /> 
+        <hr />
           <QuoteForm />
          <Quotes />
       </div>
